@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/owner-1.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/mysql-connector-java-5.1.39.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/sql2o-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/arcgis-runtime-sdk-java-100.0.0/libs/arcgis-java-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/arcgis-runtime-sdk-java-100.0.0/libs/arcgis-java-api-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/arcgis-runtime-sdk-java-100.0.0/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/arcgis-runtime-sdk-java-100.0.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oohith/Downloads/arcgis-runtime-sdk-java-100.0.0/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/jcl-over-slf4j-1.7.22.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/jul-to-slf4j-1.7.22.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/lept4j-1.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/log4j-over-slf4j-1.7.22.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/logback-classic-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/logback-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/rococoa-core-0.5.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/Tess4J/lib/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/arcobjects.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/aspectjrt-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/aspose-ocr-3.7.0 (2).jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/jai_imageio-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/java-ocr-api-15.3.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/jtds-1.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/jtesseract-0.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/owner-java8-1.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/pdfbox-app-2.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/preflight-app-2.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/sql2o-1.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/tika-app-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/postgresql-9.2-1002.jdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/JAVA jar/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
